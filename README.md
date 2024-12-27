@@ -1,2 +1,2 @@
 # SQL
-A collection of my sample SQL Files
+A collection of my sample SQL Files.
